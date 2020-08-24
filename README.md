@@ -44,9 +44,6 @@
   ## Badges
  
  
- ![Untitled_ Aug 23, 2020 6_48 PM](https://user-images.githubusercontent.com/65515339/90995698-91e52480-e571-11ea-9579-b0d67057a503.gif)
- 
-  ![alt-text](![Untitled_ Aug 23, 2020 6_48 PM](https://user-images.githubusercontent.com/65515339/90995698-91e52480-e571-11ea-9579-b0d67057a503.gif) 
- 
+![readmegenerator](https://user-images.githubusercontent.com/65515339/90997410-526d0700-e576-11ea-92a3-1dd9c801eddb.gif)a
  
   
