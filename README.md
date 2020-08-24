@@ -44,6 +44,6 @@
   ## Badges
  
  
-![readmegenerator](https://user-images.githubusercontent.com/65515339/90997410-526d0700-e576-11ea-92a3-1dd9c801eddb.gif)a
+![readmegenerator](https://user-images.githubusercontent.com/65515339/90997410-526d0700-e576-11ea-92a3-1dd9c801eddb.gif)
  
   
