@@ -24,8 +24,8 @@
   ## Questions
   If you have any questions, contact ${data.username} on GitHub.
   ## License
-  MIT License
-  Copyright (c) [year] [fullname]
+  MIT License https://img.shields.io/github/license/dgchromy/ReadMeGenerator
+  Copyright (c) [year] [${data.username}]
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
   in the Software without restriction, including without limitation the rights

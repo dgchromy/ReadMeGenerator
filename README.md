@@ -1,7 +1,7 @@
 
-    # Project Title : fdfd
+    # Project Title : ReadMeGenerator
   ## Project Description:
-  fff
+  it compiles user information to generate a readme file
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -12,18 +12,18 @@
   * [Author] (#Author)
   * [Badges](#badges)
   ## Installation
-  dddd
+  copy the code from github and clone to terminal and install fs, inquierer, axios and node. 
   ## Usage
-  dddd
+   control tildy to bring up your terminal go all the way into the ReadMeGenerator file enter in 'node index.js' enter it will prompt the questions to come up on your terminal answer all the questions.
   ## Contributors
-  dd
+  Moses Kamara Jonathon Bower Douglas Mitchell Dan Anh Nguyen 
   ## Test
-  dd
+  use npm run test 
   ## Questions
-  If you have any questions, contact fds on GitHub.
+  If you have any questions, contact dgchromy on GitHub.
   ## License
-  MIT License
-  Copyright (c) [year] [fullname]
+  MIT License https://img.shields.io/github/license/dgchromy/ReadMeGenerator
+  Copyright (c) [year] [Donald Chromy]
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
   in the Software without restriction, including without limitation the rights
@@ -40,7 +40,7 @@
   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
   SOFTWARE.
   ## Author
-  ![GitHub profile pic](https://avatars3.githubusercontent.com/u/661329?v=4)
+  ![GitHub profile pic](https://avatars3.githubusercontent.com/u/65515339?v=4)
   ## Badges
  
   
