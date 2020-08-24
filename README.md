@@ -43,4 +43,10 @@
   ![GitHub profile pic](https://avatars3.githubusercontent.com/u/65515339?v=4)
   ## Badges
  
+ 
+ ![Untitled_ Aug 23, 2020 6_48 PM](https://user-images.githubusercontent.com/65515339/90995698-91e52480-e571-11ea-9579-b0d67057a503.gif)
+ 
+  ![alt-text](![Untitled_ Aug 23, 2020 6_48 PM](https://user-images.githubusercontent.com/65515339/90995698-91e52480-e571-11ea-9579-b0d67057a503.gif) 
+ 
+ 
   
